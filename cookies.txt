@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clip2net.com	TRUE	/	FALSE	1999999999	PHPSESSID	7u4i20o53hvsecdh1antmrrhj0
+wiki.fonline2.com	TRUE	/	FALSE	1999999999	Brightside_wiki_fo2__session	oob04t41f70tvu23s0b0g308kav4b6cr
+wiki.fonline2.com	TRUE	/	FALSE	1999999999	stopMobileRedirect	true
+wiki.fonline2.com	TRUE	/	FALSE	1999999999	mf_useformat	true
+
